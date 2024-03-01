@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongoose": "^8.2.0",
+    "validator": "^13.11.0"
+  },
+  "name": "shatestapi",
+  "version": "1.0.0",
+  "main": "mongoos.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
